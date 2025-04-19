@@ -1,1 +1,3 @@
+Shay.ai is your smart networking assistant that helps you discover and connect with the most relevant people at any event. Whether you're looking for a job, a co-founder, or just someone interesting to meet, you simply tell the bot—and it shows you curated profiles pulled from Luma, Meetup, and LinkedIn. You can swipe through suggestions, ask for more details, and even get help crafting personalized reach-outs. With NLP-powered insights and a clean, modern UI, EventMatch AI makes your event experience focused, efficient, and way more impactful.
+![image](https://github.com/user-attachments/assets/e6f5b3bb-7d9e-4a69-bf66-b32871d117a3)
 
